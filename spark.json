@@ -1,0 +1,8 @@
+{
+    "name": "om-pir",
+    "version": "0.0.1",
+    "author": "OliverMartini",
+    "license": "MIT",
+    "description": "A simple PIR libary for Spark Core",
+	"namespace": "OM::PIR"
+}
